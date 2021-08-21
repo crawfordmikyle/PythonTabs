@@ -1,0 +1,1 @@
+print("number 1\t is something good ")
